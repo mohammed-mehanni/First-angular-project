@@ -85,9 +85,15 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/all.min.css",
+              "src/assets/css/style.css"
             ],
-            "scripts": []
+            "scripts": [
+               "src/assets/js/bootstrap.bundle.min.js",
+               "src/assets/js/all.min.js"
+            ]
           }
         }
       }
